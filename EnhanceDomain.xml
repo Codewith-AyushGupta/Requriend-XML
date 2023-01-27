@@ -21,7 +21,7 @@
 		<members>Preferred_Vendor_RPF_link</members>
 		<members>Sample_Request_Form_URL</members>
 		<members>WebSite_Form_URL</members>
-		<name>CustomLabel</name>
+		<name>CustomLabel</name> 
 	</types>
 	<types>
 		<members>LouisvilleConfiguration.Internal_Form_Sample_Request_Link</members>
